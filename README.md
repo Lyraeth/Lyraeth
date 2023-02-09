@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marfyz a.k.a Mahsa Nurfarhan Hidayat
+- 👋 Hi, I’m Lyraeth a.k.a Mahsa Nurfarhan Hidayat
 - 👀 I’m interested in C++ and Java 
 - 🌱 I’m currently learning JavaScript
 
