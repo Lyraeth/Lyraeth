@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lyraeth a.k.a Mahsa Nurfarhan Hidayat
-- 👀 I’m interested in C++ and Java 
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Lyraeth a.k.a Mahsa Nurfarhan Hidayat 
+
+
 
 <!---
 Marfyz/Marfyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
